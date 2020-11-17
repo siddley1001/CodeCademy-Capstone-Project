@@ -1,4 +1,4 @@
-# MachineLearning
+# CodeCademy "Data Science Career Track" Capstone Project
 The guidelines of this project were supplemented by CodeCademy's Career Track in Data Science.
 
 ## Purpose
